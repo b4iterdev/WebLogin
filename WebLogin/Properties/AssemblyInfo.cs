@@ -10,7 +10,7 @@ using System.Windows;
 [assembly: AssemblyTitle("WebLogin")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Atlas Playbook v0.4.1")]
+[assembly: AssemblyCompany("Nguyen Minh Thai")]
 [assembly: AssemblyProduct("WebLogin")]
 [assembly: AssemblyCopyright("Copyright © Nguyen Minh Thai 2025")]
 [assembly: AssemblyTrademark("")]
